@@ -8,7 +8,7 @@
     "StubbledBannana"
   ],
   "contact": {
-    "sources": "https://github.com/StubbledBannana/Banana-Meteor-Addon"
+    "sources": "https://github.com/StubbledBannana/Banana-Addon"
   },
   "icon": "assets/banana/icon.png",
   "environment": "client",
